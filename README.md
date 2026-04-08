@@ -72,7 +72,7 @@ While improving the UI:
 
 ---
 
-## 📸 Screenshots
+##  screenshots
 
 ### Before
 ![Before UI](screenshots/Before-UI.png)
