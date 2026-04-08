@@ -5,10 +5,11 @@ A modern, responsive redesign of the workshop booking interface focused on impro
 ##  Overview
 
 This project focuses on improving the user interface and user experience of the original workshop booking system. The goal was to make the platform more visually appealing, responsive, and easier to use, especially for students accessing it on mobile devices.
+This project was developed as part of the FOSSEE UI/UX enhancement screening task.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - Clean and modern UI
 - Responsive design for mobile users
@@ -17,6 +18,8 @@ This project focuses on improving the user interface and user experience of the 
 - Success message after submission
 
 ---
+
+
 
 ##  Design Principles
 
