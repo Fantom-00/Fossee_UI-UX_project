@@ -86,7 +86,7 @@ While improving the UI:
 ##  Setup Instructions
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Fantom-00/Fossee_UI-UX_project.git>
 cd workshop-ui
 npm install
 npm start
