@@ -59,16 +59,13 @@ While improving the UI:
 
 ---
 
-##  Screenshots
+## 📸 Screenshots
 
 ### Before
-
-(Add screenshot of original UI)
+![Before UI](screenshots/before.png)
 
 ### After
-
-(Add screenshot of your improved UI)
-
+![After UI](screenshots/after.png)
 ---
 
 ##  Setup Instructions
