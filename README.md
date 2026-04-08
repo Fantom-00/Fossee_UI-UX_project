@@ -75,10 +75,11 @@ While improving the UI:
 ## 📸 Screenshots
 
 ### Before
-![Before UI](screenshots/before.png)
+![Before UI](screenshots/Before-UI.png)
 
 ### After
-![After UI](screenshots/after.png)
+![After UI](screenshots/After-UI1.png)
+![After UI](screenshots/After-UI2.png)
 
 ---
 
