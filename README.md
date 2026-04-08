@@ -1,5 +1,6 @@
-# Fossee_UI-UX_project
-# Workshop Booking UI/UX Enhancement
+# Workshop Booking UI/UX Enhancement (React)
+
+A modern, responsive redesign of the workshop booking interface focused on improving usability and user experience.
 
 ##  Overview
 
